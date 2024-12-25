@@ -81,7 +81,8 @@ function Main() {
                 </div>
        
                 <p className='bottom-info'>
-                  Gemini can make mistakes, so double-check it.
+                  Gemini can make mistakes, so double-check it.<br></br>
+                  © 2024 Kusum Kumari. All rights reserved.
                 </p>
             </div>
         </div>
